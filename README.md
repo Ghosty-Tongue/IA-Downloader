@@ -32,7 +32,7 @@ Welcome to IA Downloader! This nifty tool lets you dive into the vast sea of fil
 
 1. Run the script:
    ```sh
-   python iadownloader.py
+   python ia.py
    ```
 
 2. Enter the Identifier of the Internet Archive item when prompted.
