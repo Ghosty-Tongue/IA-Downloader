@@ -19,7 +19,7 @@ Welcome to IA Downloader! This nifty tool lets you dive into the vast sea of fil
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/IA-Downloader.git
+   git clone https://github.com/Ghosty-Tongue/IA-Downloader.git
    cd IA-Downloader
    ```
 
